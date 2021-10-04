@@ -5,6 +5,9 @@
 * 💡    linguagem de programação que estou estudante: C e Python
 * 🎸 Hobby: Tocar violão
 
+
+
+
 <div align="center">
   <a href="https://github.com/FlavioMuniz1518">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioMuniz1518&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
